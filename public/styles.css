@@ -1,0 +1,19 @@
+#map {
+    height: 50rem;
+    width: 100%;
+}
+
+#title, .searchContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchContainer {
+    margin-bottom: 10px;
+}
+
+body {
+    margin-right: 100px;
+    margin-left: 100px;
+}
